@@ -1,1 +1,71 @@
+Body{
+  background-color: aquamarine;
+  color: #000033;
+  font-family: Papyrus, Garamond, sans-serif;
+  font-weight: 600;
+  margin: 10% 5%;
+  font-size: 18px;
+  
+}
 
+.header{
+  border-style: groove;
+  border-color: #0009;
+  background-color: aquamarine;
+  color: #000033;
+  font-family: Papyrus, Garamond, sans-serif;
+  font-weight: 600;
+  margin: 5%;
+  text-align: center;
+}
+
+#image1{
+  float: left;
+  height: 250px;
+  width: 750px; 
+}
+
+#image2{ 
+  height: 200px; 
+  width: 250px;
+}
+
+.education{
+  text-align: center;
+}
+h1{
+  font-size: 30px;
+  text-align: center;
+}
+
+h2{
+  font-size: 22px;
+  text-align: center;
+}
+
+h3{
+  font-size: 20px;
+  
+}
+
+.coverletter{
+  background-color: aquamarine;
+  color: #000033;
+  font-family: Papyrus, Garamond, sans-serif;
+  font-weight: 600;
+  text-align: left;
+  margin: 8% 
+}
+
+.resume{
+  border-style: groove;
+  border-color: #0009;
+  background-color: aquamarine;
+  color: #000033;
+  font-family: Papyrus, Garamond, sans-serif;
+  font-weight: 600;
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 6%
+}
